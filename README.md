@@ -7,3 +7,7 @@
 a) D=12, S=12
 b) D=13, S=13
 c) D=14, S=13
+
+Результаты:
+![](https://github.com/novkri/GPU_Parallel/blob/master/img/Аннотация%202020-05-27%20205337.png)
+![](https://github.com/novkri/GPU_Parallel/blob/master/img/Аннотация%202020-05-27%20205352.png)
